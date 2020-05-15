@@ -27,3 +27,23 @@ Lista de tarefas
   - [x] ~~Tarefa 1~~
   - [ ] Tarefa 2
   - [ ] Tarefa 3
+
+
+Número | Nome | Nota
+---|---|---
+1|Wellington|8.9
+2|Carol|8,5
+3|Carlos|5,9
+
+Final da tabela
+
+Não entendo para que serve o comando `console.log(Olá Mundo)` no node.js
+
+Olha o meu programa em python:
+```
+num = int(input('Digite um número: '))
+if num % 2 == 0:
+    print(f'O número {num} é PAR')
+else:
+    print(f'O número {num} é ÍMPAR')
+```
